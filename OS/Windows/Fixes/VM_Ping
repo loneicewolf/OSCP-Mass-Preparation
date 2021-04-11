@@ -1,0 +1,5 @@
+
+REM Allow for icmp echo reqs.
+netsh advfirewall firewall add rule name="PING VM ICMP  Rule 1" protocol=icmpv4:8,any dir=in action=allow 
+netsh advfirewall firewall add rule name="PING VM ICMP  Rule 2" protocol=icmpv6:8,any dir=in action=allow
+
