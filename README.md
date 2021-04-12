@@ -15,7 +15,7 @@ around  Windows and Linux. "Quick"Scripts, (cmd,bash,...)
 
 ### [+] Effic. Work & Checkpointing
 
- - MultiTasking. (so, **never** actually **wait** for something to finnish)
+ - MultiTasking. (so, **never** actually **wait** for something to Finnish)
  - Record sessions **all the time.**
  - Before doing a oscp; Mess around with some things, asm, buffer overflows, kernel exploits, use-after-free's, 
  - E.g take a malware (fanny.bmp in my case) mess around with it, see what happens in a debugger, etc. Perform some kind of, in-depth analysis too - as, in question how you would have made the malware, why and why not use (these) methods, etc.Shortly - explain Cons + Pros of different and identical approaches. 
