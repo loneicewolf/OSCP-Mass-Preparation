@@ -29,3 +29,11 @@ Hello World
 
 [Example - At Stackoverflow](https://stackoverflow.com/questions/17971398/sending-packets-with-scapy-within-python-environment#17982399)
 
+
+//TCP note
+I tested tcp only for, well - testing purposes.
+In a real app you (*probably*) wouldn't do like this;
+
+More on this later.
+
+
