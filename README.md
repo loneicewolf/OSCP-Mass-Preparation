@@ -1,7 +1,18 @@
 # OSCP-Mass-Preparation
 
 *This was made before I even started my OSCP course - the purpose of that was **(to 100%)**
-eliminate the risk of revealing anything. (**Because of this, I will not write anything about the OSCP - or anything that is OSCP-related during or afterwards my OSCP course have begun.***
+eliminate the risk of revealing anything afterwards or during my journey into OSCP.
+
+```
+****************************************************************************
+Because of this, I will not write anything about the OSCP - or anything that is OSCP-related 
+during
+or
+afterwards
+my OSCP course have begun.
+****************************************************************************
+```
+
 
 *Removed some things as to not sound *too* confusing*
 If you find any spelling mistakes, please **please** let me know! I'll fix it right away. (It does not need to sound nice!)
