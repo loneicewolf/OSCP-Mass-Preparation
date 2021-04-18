@@ -21,11 +21,8 @@ Note. This is for myself, so others *might* find this, or part of this repo - co
 
 Since this is my first OSCP for me, it's extra vital to be prepared.
 
-Will include Notes, and research
+Will include Notes, and research about Linux as well as Windows - and API's around them.
 
-*From what I have heard anyway. Since I have not (**yet but will in a few days!**) take the OSCP; I can only speculate.*
-
-Around  Windows and Linux. "Quick"Scripts, (cmd,bash,...)
 
 
 --- list of things to keep in mind ---
