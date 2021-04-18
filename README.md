@@ -1,40 +1,45 @@
 # OSCP-Mass-Preparation
 
+*This was made before I even started my OSCP course - the purpose of that was **(to 100%)**
+eliminate the risk of revealing anything. (**Because of this, I will not write anything about the OSCP - or anything that is OSCP-related during or afterwards my OSCP course have begun.***
+
+*Removed some things as to not sound *too* confusing*
+If you find any spelling mistakes, please **please** let me know! I'll fix it right away. (It does not need to sound nice!)
+
 Note. This is for myself, so others *might* find this, or part of this repo - confusing.
 
 Since this is my first OSCP for me, it's extra vital to be prepared.
 
-Will include Notes, Research(that - well, nearly everyone (Or, I at least) does before and, during OSCP, (labs and stuff))
-around  Windows and Linux. "Quick"Scripts, (cmd,bash,...)
+Will include Notes, and research
+
+*From what I have heard anyway. Since I have not (**yet but will in a few days!**) take the OSCP; I can only speculate.*
+
+Around  Windows and Linux. "Quick"Scripts, (cmd,bash,...)
+
 
 --- list of things to keep in mind ---
-
 
 
 # Structure 1:
 
 ### [+] Effic. Work & Checkpointing
 
- - MultiTasking. (so, **never** actually **wait** for something to Finnish)
- - Record sessions **all the time.**
+ - MultiTasking. (so, **never** actually **wait** for something to finish)
  - Before doing a oscp; Mess around with some things, asm, buffer overflows, kernel exploits, use-after-free's, 
- - E.g take a malware (fanny.bmp in my case) mess around with it, see what happens in a debugger, etc. Perform some kind of, in-depth analysis too - as, in question how you would have made the malware, why and why not use (these) methods, etc.Shortly - explain Cons + Pros of different and identical approaches. 
-      
-   
+ - E.g take a malware (fanny.bmp in my case) mess around with it, see what happens in a debugger, etc. Perform some kind of, in-depth analysis too - as, in question how you would have made the malware, why and why not use (these) methods, etc. Shortly - explain Cons + Pros of different and identical approaches.
+ - (As a academic exercise, how would one build a "better fanny.bmp" malware?)
+
 ------------------
 
 ABC
 
 ------------------
 
-------------------
-
 Sources and External Resources
-[OSCP Exam Report Template - Noraj's Github](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 
 
 -------------------
-   
+  
 # References
 "title" - name
 "title" - name
@@ -46,3 +51,4 @@ Sources and External Resources
 
 "title" - name
 "title" - name
+
