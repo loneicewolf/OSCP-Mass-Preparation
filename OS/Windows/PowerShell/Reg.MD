@@ -41,7 +41,7 @@
 ### How about you obfuscate that cake?
     # --------------- Does the same as above, except now it's in format:HEX --------------- #
     
-    PS C:\Windows\system32> powershell -W hidden reg query $R0 | Out-File C:\Users\YOU\Desktop\OUTPUT.reg
+    PS C:\Windows\system32> powershell -W hidden reg query $R0 | Format-Hex | Out-File C:\Users\YOU\Desktop\OUTPUT.reg.hex
 
 Outputs This (Or, something (on those) lines):
 
