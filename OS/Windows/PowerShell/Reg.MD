@@ -1,7 +1,5 @@
 # Powershell Preparation for PEN300
 -------------------------
-
-
 // Quick Variables:
 
 
